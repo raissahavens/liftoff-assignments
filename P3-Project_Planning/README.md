@@ -11,18 +11,18 @@ For this assignment, you'll create some initial plans for your project.
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 <ul>
-![homepage](img/homepage.png)
-![cart](img/cart.png)
-![Catalog of Products](img/products.png)
-![Contact Form](img/contactForm.png)
-![About Us](img/aboutUs.JPG)
+<li>![homepage](img/homepage.png)</li>
+<li>![cart](img/cart.png)</li>
+<li>![Catalog of Products](img/products.png)</li>
+<li>![Contact Form](img/contactForm.png)</li>
+<li>![About Us](img/aboutUs.JPG)</li>
 </ul>
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
-'&rarr' https://trello.com/b/760zjjAs/liftoff-project-launchcode
+&rarr; https://trello.com/b/760zjjAs/liftoff-project-launchcode
 
 Include a link to your project on GitHub.
 
-https://github.com/raissahavens/docsbagels
+&rarr; https://github.com/raissahavens/docsbagels
 
