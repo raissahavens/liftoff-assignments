@@ -10,12 +10,11 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-<ul>
-<li><a href="https://github.com/raissahavens/liftoff-assignments/blob/master/P3-Project_Planning/img/homepage.png"></a></li>
-<li><a href="https://github.com/raissahavens/liftoff-assignments/blob/master/P3-Project_Planning/img/products.png"></a></li>
-<li><a href="https://github.com/raissahavens/liftoff-assignments/blob/master/P3-Project_Planning/img/cart.png"></a></li>
-<li><a href="https://github.com/raissahavens/liftoff-assignments/blob/master/P3-Project_Planning/img/contactForm.png"></a></li>
-</ul>
+- See [homepage](https://github.com/raissahavens/liftoff-assignments/blob/master/P3-Project_Planning/img/homepage.png)
+- (https://github.com/raissahavens/liftoff-assignments/blob/master/P3-Project_Planning/img/products.png)
+- (https://github.com/raissahavens/liftoff-assignments/blob/master/P3-Project_Planning/img/cart.png)
+- (https://github.com/raissahavens/liftoff-assignments/blob/master/P3-Project_Planning/img/contactForm.png)
+
 ![About Us](img/aboutUs.JPG)
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
